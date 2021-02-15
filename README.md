@@ -1,5 +1,7 @@
 ### Desenvolvimento de API com Node.js
 
+Criado por Leonan Luppi para aula do Schoolofnet
+
 Ferramentas e dependências utilizados:
 
 * npm init

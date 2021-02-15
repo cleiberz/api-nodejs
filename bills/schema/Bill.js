@@ -15,4 +15,4 @@ const Bill = new mongoose.Schema({
     }
 })
 
-export default Bill
+export default mongoose.model('Bill', Bill)
