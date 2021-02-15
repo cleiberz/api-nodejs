@@ -1,4 +1,4 @@
-### Informações
+### Desenvolvimento de API com Node.js
 
 Ferramentas e dependências utilizados:
 
